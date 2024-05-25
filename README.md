@@ -1,4 +1,12 @@
-## Hi there 👋
+
+- 👋 Hi, I’m Gunjan.
+- 👀 I’m interested in web development and exploring various technologies.
+- 🔭 I’m currently working on ReactJS and Node.js.
+- 🌱 I’m currently learning Loopback4.
+- 💞️ I’m looking to collaborate on various interesting open-source projects.
+- 📫 How to reach me:
+  Email ID: <a mailto="gunjangaba122@gmail.com">gunjangaba122@gmail.com</a>
+  LinkedIn: www.linkedin.com/in/gunjan-gaba-49618b1ba
 
 <!--
 **gunjangaba122/gunjangaba122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
